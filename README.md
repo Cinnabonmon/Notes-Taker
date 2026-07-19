@@ -2,7 +2,7 @@
 
 ## Description
 
-This is just a simple note taking app to jot down some quick thoughts. You will see other peoples notes so please don't spam or jot innapropiate jokes.
+This is just a simple note taking app to jot down some quick thoughts. It's hosted via render so you will see other peoples notes so please don't spam or jot innapropiate jokes.
 
 ![Screenshot](./Assets/image.png)
 ![GIF](./Assets/11-express-homework-demo.gif)
@@ -14,6 +14,10 @@ This is just a simple note taking app to jot down some quick thoughts. You will 
 - [Usage](#usage)
 - [Commands](#command)
 - [Questions](#questions)
+
+## Website Link
+
+https://notes-taker-94np.onrender.com
 
 ## Dependencies
 
