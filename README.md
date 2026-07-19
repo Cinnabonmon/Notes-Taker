@@ -21,7 +21,9 @@ nodejs v26
 
 ## Installation
 
-git clone
+```
+git clone https://github.com/Cinnabonmon/Notes-Taker.git
+```
 
 ## Commands
 
