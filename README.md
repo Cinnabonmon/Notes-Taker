@@ -26,7 +26,7 @@ git clone
 ## Commands
 
 ```
-cd note-taking
+cd Notes-Taker
 npm i
 node ./server.js
 ```
